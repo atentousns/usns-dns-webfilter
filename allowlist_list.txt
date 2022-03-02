@@ -1,0 +1,3 @@
+https://github.com/anudeepND/whitelist/raw/master/domains/optional-list.txt
+https://github.com/anudeepND/whitelist/raw/master/domains/referral-sites.txt
+https://github.com/anudeepND/whitelist/raw/master/domains/whitelist.txt
