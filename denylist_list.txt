@@ -1,3 +1,4 @@
+https://github.com/atentousns/usns-dns-webfilter/raw/main/GameStop/denylist.txt
 https://blocklistproject.github.io/Lists/abuse.txt
 https://blocklistproject.github.io/Lists/ads.txt
 https://blocklistproject.github.io/Lists/crypto.txt
