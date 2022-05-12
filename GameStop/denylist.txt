@@ -9,3 +9,6 @@ vimeo.com
 *hulu.com
 *discord*.gg
 *discord*.com
+*funimation.com
+*viz.com
+*crunchyroll.com
