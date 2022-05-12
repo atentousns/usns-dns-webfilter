@@ -7,3 +7,5 @@
 vimeo.com
 *netflix.com
 *hulu.com
+*discord*.gg
+*discord*.com
