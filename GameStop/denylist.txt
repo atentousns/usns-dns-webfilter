@@ -3,3 +3,7 @@
 *spotify*.com
 *myspace.com
 *reddit.com
+*googlevideo.com
+vimeo.com
+*netflix.com
+*hulu.com
