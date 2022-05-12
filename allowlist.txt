@@ -1,2 +1,17 @@
 *adp*.com
 *gamestop*.com
+*okta*.com
+*microsoft*.com
+*service-now.com
+*sharepoint.com
+
+kerbloyaltycsrprod.babgsetc.pvt
+crm.gameinformer.com
+signon.us.storedvalue.com
+returns.narvar.com
+csportal.gamestop.com
+*powerbi.com
+gamestop.cloud.com
+*nice-incontact*.com
+*office.com
+*atento.com*
