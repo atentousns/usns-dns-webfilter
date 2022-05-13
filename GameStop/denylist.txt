@@ -1,4 +1,4 @@
-*facebook.com
+^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+$
 *tiktok.com
 *instagram.com
 
