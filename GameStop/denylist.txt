@@ -1,12 +1,12 @@
-^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+$
-^(.+[_.-])?(twitter|twimg|cms-twdigitalassets)\.(co\.)?[^.]+$
+facebook.com
+twitter.com
 
 *tiktok.com
 *instagram.com
 
 music.apple.com
-*spotify.com
-*soundcloud.com
+spotify.com
+soundcloud.com
 
 *myspace.com
 *reddit.com
