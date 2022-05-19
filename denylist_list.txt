@@ -20,5 +20,5 @@ https://openphish.com/feed.txt
 
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Instagram/Instagramblocklist.txt
 https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Twitter/Twitterblocklist.txt
-https://github.com/d43m0nhLInt3r/socialblocklists/blob/master/TikTok/tiktokblocklist.txt
-https://github.com/d43m0nhLInt3r/socialblocklists/blob/master/Facebook/facebookblocklist.txt
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/blob/master/TikTok/tiktokblocklist.txt
+https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/blob/master/Facebook/facebookblocklist.txt
